@@ -1,2 +1,0 @@
-# gitlearn
-Belajar GIT / github
